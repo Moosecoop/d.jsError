@@ -1,0 +1,28 @@
+{
+  "name": "d.jserror",
+  "version": "0.0.1",
+  "description": "A simple module to make showing users an error easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moosecoop/d.jsError.git"
+  },
+  "keywords": [
+    "error",
+    "d.js",
+    "discord",
+    "discord.js",
+    "discord-js",
+    "komada",
+    "err"
+  ],
+  "author": "Moosecoop",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Moosecoop/d.jsError/issues"
+  },
+  "homepage": "https://github.com/Moosecoop/d.jsError#readme"
+}
