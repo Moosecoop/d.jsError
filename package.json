@@ -1,5 +1,5 @@
 {
-  "name": "moosecoop@d.jserror",
+  "name": "d.jserror",
   "version": "1.0.6",
   "description": "A simple module to make showing users an error easier",
   "main": "index.js",
