@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Moosecoop/d.jsError.svg?branch=master)](https://travis-ci.org/Moosecoop/d.jsError) [![Coverage Status](https://coveralls.io/repos/github/Moosecoop/d.jsError/badge.svg)](https://coveralls.io/github/Moosecoop/d.jsError)
 # SimpleErr
 SimpleErr
 
