@@ -1,6 +1,6 @@
 {
   "name": "d.jserror",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A simple module to make showing users an error easier",
   "main": "index.js",
   "scripts": {
