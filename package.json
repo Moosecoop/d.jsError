@@ -4,7 +4,8 @@
   "description": "A simple module to make showing users an error easier",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/.bin/mocha --reporter spec",
+    "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
   },
   "repository": {
     "type": "git",
@@ -27,5 +28,9 @@
   "homepage": "https://github.com/Moosecoop/d.jsError#readme",
   "dependencies": {
     "discord.js": "^11.1.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.13.1",
+    "istanbul": "^0.4.5"
   }
 }
